@@ -2,6 +2,9 @@
 Compiler for a Drawing Language Based on Python 3.13 - Course Design for Compiler Principles
 基于python3.13的绘图语言绘图语言编译器 编译原理课程设计
 
+![image](https://github.com/user-attachments/assets/c6fd4d6d-e420-4a7a-a4bf-0d45a77365dc)
+
+
 ## EBNF词法规则
 
 本绘图语言基于python基本语句构造，去掉了部分不常用的语句。词法部分对标识符、数字和符号进行了EBNF的识别，过滤了注释和空白。
